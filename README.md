@@ -1,2 +1,2 @@
 # WebDevelopment
-Toy projects for practicing React, Node, MongoDB, JavaScript, HTML, CSS
+Toy projects for practicing React, Node-js, MongoDB, JavaScript, HTML, CSS, Swift, AWS
